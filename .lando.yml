@@ -1,0 +1,4 @@
+name: fizz-theme
+recipe: wordpress
+config:
+  webroot: site/web
